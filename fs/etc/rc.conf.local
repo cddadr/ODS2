@@ -1,0 +1,5 @@
+shlib_dirs="/usr/dt/lib"
+inetd_flags=
+portmap_flags=
+
+pkg_scripts=dtlogin
